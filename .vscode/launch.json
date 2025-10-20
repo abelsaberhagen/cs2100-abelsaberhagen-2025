@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "PrimeNumber",
+            "request": "launch",
+            "mainClass": "primenumber.PrimeNumber",
+            "projectName": "cs2100-abelsaberhagen-2025_66372356"
+        },
+        {
+            "type": "java",
+            "name": "Factorial",
+            "request": "launch",
+            "mainClass": "factorial.Factorial",
+            "projectName": "cs2100-abelsaberhagen-2025_66372356"
+        },
+        {
+            "type": "java",
             "name": "GuessNumber",
             "request": "launch",
             "mainClass": "guessnumber.GuessNumber",
