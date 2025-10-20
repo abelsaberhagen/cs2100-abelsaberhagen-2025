@@ -1,6 +1,7 @@
 package sumofints;
 
 
+
 public class SumsOfInts {
     public static void main(String args[]) {
         int[] nums = { 2, 3, 6, 8, 5, 9, 14 };
