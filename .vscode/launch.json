@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "HanoiTower",
+            "request": "launch",
+            "mainClass": "hanoitower.HanoiTower",
+            "projectName": "cs2100-abelsaberhagen-2025_66372356"
+        },
+        {
+            "type": "java",
             "name": "PrimeNumber",
             "request": "launch",
             "mainClass": "primenumber.PrimeNumber",
